@@ -1,0 +1,1 @@
+let hoverMenu = document.getElementById('slider-menu')
