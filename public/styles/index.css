@@ -15,7 +15,7 @@
     font-family: 'Pontano Sans', sans-serif;
     color: #FFFFFF;
     font-size: 25px;
-    /* margin: 40%; */
+
 }
 
 .nav-list{
@@ -28,7 +28,7 @@
  .nav-list-item{
      color: #FA7268;
      font-family: 'Abel', sans-serif;
-     font-size: 18px;
+     font-size: 22px;
      list-style: none;
      margin: 30px;
  }
@@ -39,7 +39,6 @@
      border: 20px solid #FA7268;
      margin-left: auto;
      margin-right: auto;
-     /* margin-left: 8%; */
      background-color: #FFFFFF;
  }
  
@@ -71,14 +70,5 @@
      background-color: #3895d3;
      margin-left: auto;
      margin-right: auto;
-     position: flex;
-     /* margin-top: -30%; */
-     /* animation-fill-mode: forwards; */
-     /* transition-property: width; */
-     /* transition-duration: 2s; */
  }
- 
- /* .inner-box-div:hover{ */
-     /* animation: slidein 4s linear; */
-     /* width: 50px; */
- /* } */
+

@@ -1,0 +1,89 @@
+.nav-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 5%;
+    font-family: 'Abel', sans-serif;
+ }
+ 
+ .nav-list-item{
+     color: #3895d3;
+     list-style: none;
+     margin: 30px;
+     font-size: 22px;
+ }
+ 
+ .outter-box-div{
+     height: 600px;
+     width: 80%;
+     border: 20px solid#3895d3;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: #FFFFFF;
+ }
+ 
+ a{
+     color:#3895d3;
+     text-decoration: none;
+ }
+ 
+ a:hover{
+     color:#000000
+ }
+
+ .inner-box-div{
+    height: 300px;
+    width: 100%;
+    background-color: #FA7268;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -38%;
+ }
+
+ .text-div{
+     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+     font-family: 'Pontano Sans', sans-serif;
+     font-weight: bold;
+     color: #FFFFFF;
+     font-size: 40px;
+ }
+
+ .text-project-header{
+    display: inline-block;
+ }
+
+.project-links{
+    display: flex;
+    flex-direction: row;
+}
+
+ .text-project-link{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 30px;
+ }
+
+ .resume-div{
+     height: 100px;
+     width: 100%;
+     background-color: #000000;
+     text-align: center;
+ }
+ 
+ .text-resume-link{
+    display: inline-block;
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 30px;
+ }
+
+ .text-resume-link:hover{
+    color:#3895d3
+ }
